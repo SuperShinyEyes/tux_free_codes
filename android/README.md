@@ -1,5 +1,5 @@
 ## Futurice kickstarter 2015.Sept.18th
-Teacher:
+Teacher: Peter Tackage
 
 ### What is Android?
 * Applications
@@ -28,4 +28,4 @@ Teacher:
 
 ### Question:
 1. Customer expectations and design expertise can be more iOS focused?
-2. Is context similar to http context?
+2. Is a context similar to an http context? - kinda but NO it's not an http context.

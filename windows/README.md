@@ -1,0 +1,4 @@
+Visual Studio Online
+
+Studio: 1204019580
+10: RGDFQ-7N4QG-X9239-CJDQV-R9CJB
