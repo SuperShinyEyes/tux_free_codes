@@ -23,3 +23,20 @@ Teacher: Martin Richter
 * [Apple Developer Community](https://developer.apple.com/library/prerelease/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
 * [Swift ebook](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11)
 * [Futurice](https://github.com/futurice/ios-good-practices)
+
+### Question
+```
+class ArticleListViewController: UITableViewController {
+
+    override func tableView(tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
+        <#code#>
+    }
+
+}
+```
+
+```
+class ArticleStore {
+    typealias SuccessHandler = [Article] -> Void
+}
+```
