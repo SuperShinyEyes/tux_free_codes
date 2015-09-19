@@ -2,8 +2,8 @@
 Teacher: Peter Tackage
 
 ### Tux development environment
-[Android Studio](https://developer.android.com/sdk/index.html#top)
-[JDK 7](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html)
+* [Android Studio](https://developer.android.com/sdk/index.html#top)
+* [JDK 7](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html)
 
 
 ### What is Android?
