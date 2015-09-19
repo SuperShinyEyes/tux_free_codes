@@ -30,7 +30,18 @@ Teacher: Peter Tackage
 
 ### Third-party libraries
 * [Butter Knife](http://jakewharton.github.io/butterknife/)
+* **Retrofit** - Atype safe HTTP client for Android and Java
+* SimpleXML - XML deserialization mapper
 
+### Futurice Documentation
+https://github.com/futurice/android-best-practices
+
+### Resources
+* https://github.com/codepath/android_guides
+* https://twitter.com/jakeWharton
+
+### Shortcuts
+* cmd + B : Jump to
 ### Question:
 1. Customer expectations and design expertise can be more iOS focused?
 2. Is a context similar to an http context? - kinda but NO it's not an http context.
