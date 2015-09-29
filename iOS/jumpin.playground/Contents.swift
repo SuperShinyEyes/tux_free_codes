@@ -23,10 +23,6 @@ var sevenAlphabet = "seven"
 possibleInt = Int(sevenAlphabet)
 print(possibleInt)
 
-// Creates an empty array.
-var emptyArray = [String]()
-
-
 let number = 235
 if number < 10 {
     print("The number is small")
@@ -340,4 +336,15 @@ for instance in protocolArray {
     instance.adjust()
 }
 protocolArray
+
+
+// Empty dictionary or array
+var emptyArray = [String]()
+// or
+emptyArray = []
+var emptyDictionary = [String: Float]()
+// or
+emptyDictionary = [:]
+
+
 
